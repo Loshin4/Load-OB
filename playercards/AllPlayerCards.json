@@ -93229,7 +93229,7 @@
           },
           "Nickname": "Roland Banks",
           "Description": "The Fed",
-          "GMNotes": "{\n  \"id\": \"01001\",\n  \"alternate_ids\": [\n    \"98004\",\n    \"01501\"\n  ],\n  \"type\": \"Investigator\",\n  \"class\": \"Guardian\",\n  \"traits\": \"Agency. Detective.\",\n  \"willpowerIcons\": 3,\n  \"intellectIcons\": 3,\n  \"combatIcons\": 4,\n  \"agilityIcons\": 2,\n  \"cycle\": \"Core\"\n}",
+          "GMNotes": "{\n  \"id\": \"01002\",\n  \"alternate_ids\": [\n    \"98004\",\n    \"01501\"\n  ],\n  \"type\": \"Investigator\",\n  \"class\": \"Guardian\",\n  \"traits\": \"Agency. Detective.\",\n  \"willpowerIcons\": 3,\n  \"intellectIcons\": 3,\n  \"combatIcons\": 4,\n  \"agilityIcons\": 2,\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
             "y": 0.0,
@@ -93795,7 +93795,7 @@
           },
           "Nickname": "Daisy Walker",
           "Description": "The Librarian",
-          "GMNotes": "{\n  \"id\": \"01002\",\n  \"alternate_ids\": [\n    \"01502\"\n  ],\n  \"type\": \"Investigator\",\n  \"class\": \"Seeker\",\n  \"traits\": \"Miskatonic.\",\n  \"willpowerIcons\": 3,\n  \"intellectIcons\": 5,\n  \"combatIcons\": 2,\n  \"agilityIcons\": 2,\n  \"cycle\": \"Core\"\n}",
+          "GMNotes": "{\n  \"id\": \"01001\",\n  \"alternate_ids\": [\n    \"01502\"\n  ],\n  \"type\": \"Investigator\",\n  \"class\": \"Seeker\",\n  \"traits\": \"Miskatonic.\",\n  \"willpowerIcons\": 3,\n  \"intellectIcons\": 5,\n  \"combatIcons\": 2,\n  \"agilityIcons\": 2,\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
             "y": 0.0,
