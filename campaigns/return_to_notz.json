@@ -241,8 +241,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2321": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -303,8 +303,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -365,8 +365,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -426,8 +426,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2321": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -482,7 +482,7 @@
           "Hands": false,
           "CustomImage": {
             "ImageURL": "http://cloud-3.steamusercontent.com/ugc/965354846165100486/3DC8FCEF364B30758B09EF96AF9458F2B8E64D56/",
-            "ImageSecondaryURL": "https://i.imgur.com/EcbhVuh.jpg/",
+            "ImageSecondaryURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Player%20Back.jpg?raw=true",
             "ImageScalar": 1.0,
             "WidthScale": 0.0,
             "CustomTile": {
@@ -545,8 +545,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -607,8 +607,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -804,7 +804,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -865,8 +865,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -927,8 +927,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -989,8 +989,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1051,8 +1051,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1115,8 +1115,8 @@
           ],
           "CustomDeck": {
             "2324": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1176,8 +1176,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1237,8 +1237,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1298,8 +1298,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1362,8 +1362,8 @@
           ],
           "CustomDeck": {
             "2324": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1423,8 +1423,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1484,8 +1484,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1545,8 +1545,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1609,8 +1609,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1671,8 +1671,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1733,8 +1733,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1795,8 +1795,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1885,7 +1885,7 @@
           "CustomDeck": {
             "2317": {
               "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-              "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1946,7 +1946,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2007,7 +2007,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2068,7 +2068,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2129,7 +2129,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2190,7 +2190,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2251,7 +2251,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2312,7 +2312,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2373,7 +2373,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2434,7 +2434,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2495,7 +2495,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2556,7 +2556,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2617,7 +2617,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2678,7 +2678,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2739,7 +2739,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2800,7 +2800,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2861,7 +2861,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2922,7 +2922,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2983,7 +2983,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3044,7 +3044,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3105,7 +3105,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3166,7 +3166,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3227,7 +3227,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3288,7 +3288,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3349,7 +3349,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3410,7 +3410,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3471,7 +3471,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3532,7 +3532,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3593,7 +3593,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3654,7 +3654,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3715,7 +3715,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -3943,7 +3943,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4053,8 +4053,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2321": {
-                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4115,7 +4115,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4176,7 +4176,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4237,7 +4237,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4298,7 +4298,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4359,7 +4359,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4420,7 +4420,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4481,7 +4481,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4542,7 +4542,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4602,8 +4602,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2321": {
-                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -4723,7 +4723,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4784,8 +4784,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4900,7 +4900,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4961,7 +4961,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5022,7 +5022,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5083,7 +5083,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5144,7 +5144,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5209,7 +5209,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -5270,7 +5270,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5331,7 +5331,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5392,7 +5392,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5453,7 +5453,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5518,7 +5518,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -5579,7 +5579,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5640,7 +5640,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5701,7 +5701,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5762,7 +5762,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5827,7 +5827,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -5888,7 +5888,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -5949,7 +5949,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -6010,7 +6010,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -6071,7 +6071,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -6143,8 +6143,8 @@
           ],
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6205,8 +6205,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6267,8 +6267,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6329,8 +6329,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6391,8 +6391,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6453,8 +6453,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6515,8 +6515,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6577,8 +6577,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6639,8 +6639,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6701,8 +6701,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6763,8 +6763,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2323": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -6827,8 +6827,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6942,8 +6942,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2321": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7000,8 +7000,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2321": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7062,8 +7062,8 @@
           ],
           "CustomDeck": {
             "2324": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7123,8 +7123,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7184,8 +7184,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7245,8 +7245,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7309,8 +7309,8 @@
           ],
           "CustomDeck": {
             "2324": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7370,8 +7370,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7431,8 +7431,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7492,8 +7492,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7581,7 +7581,7 @@
           "CustomDeck": {
             "2317": {
               "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-              "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7642,7 +7642,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7703,7 +7703,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7764,7 +7764,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7825,7 +7825,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7886,7 +7886,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -7947,7 +7947,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8008,7 +8008,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8069,7 +8069,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8130,7 +8130,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8191,7 +8191,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8252,7 +8252,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8313,7 +8313,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8374,7 +8374,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8435,7 +8435,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8496,7 +8496,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8557,7 +8557,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8618,7 +8618,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8679,7 +8679,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8740,7 +8740,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8801,7 +8801,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8862,7 +8862,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8923,7 +8923,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -8984,7 +8984,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -9045,7 +9045,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -9106,7 +9106,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -9167,7 +9167,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -9228,7 +9228,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -9437,8 +9437,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -9499,8 +9499,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -9561,8 +9561,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -9619,8 +9619,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2321": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -9702,7 +9702,7 @@
           "CustomDeck": {
             "2317": {
               "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-              "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -9763,7 +9763,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -9824,7 +9824,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -9885,7 +9885,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -9946,7 +9946,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10007,7 +10007,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10068,7 +10068,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10129,7 +10129,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10190,7 +10190,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10251,7 +10251,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10312,7 +10312,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10373,7 +10373,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10434,7 +10434,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10495,7 +10495,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10556,7 +10556,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10617,7 +10617,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10678,7 +10678,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10739,7 +10739,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10800,7 +10800,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10861,7 +10861,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10922,7 +10922,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -10983,7 +10983,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -11044,7 +11044,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -11105,7 +11105,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -11168,8 +11168,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -11224,7 +11224,7 @@
           "Hands": false,
           "CustomImage": {
             "ImageURL": "http://cloud-3.steamusercontent.com/ugc/965354846165100486/3DC8FCEF364B30758B09EF96AF9458F2B8E64D56/",
-            "ImageSecondaryURL": "https://i.imgur.com/EcbhVuh.jpg/",
+            "ImageSecondaryURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Player%20Back.jpg?raw=true",
             "ImageScalar": 1.0,
             "WidthScale": 0.0,
             "CustomTile": {
@@ -11287,8 +11287,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -11349,8 +11349,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -11411,8 +11411,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -11473,8 +11473,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -11588,8 +11588,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2321": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -11650,8 +11650,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -11761,8 +11761,8 @@
               ],
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -11770,8 +11770,8 @@
                   "Type": 0
                 },
                 "2321": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -11831,8 +11831,8 @@
                   "SidewaysCard": true,
                   "CustomDeck": {
                     "2324": {
-                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -11892,8 +11892,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2321": {
-                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -11955,8 +11955,8 @@
               ],
               "CustomDeck": {
                 "2324": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -11964,8 +11964,8 @@
                   "Type": 0
                 },
                 "2321": {
-                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                  "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -12025,8 +12025,8 @@
                   "SidewaysCard": true,
                   "CustomDeck": {
                     "2324": {
-                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12086,8 +12086,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2321": {
-                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+                      "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12152,8 +12152,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -12214,8 +12214,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -12276,8 +12276,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -12338,8 +12338,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -12479,7 +12479,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -12540,7 +12540,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12601,7 +12601,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12662,7 +12662,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12723,7 +12723,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12784,7 +12784,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12845,7 +12845,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12906,7 +12906,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -12967,7 +12967,7 @@
                   "CustomDeck": {
                     "2317": {
                       "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                      "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -13030,7 +13030,7 @@
               "CustomDeck": {
                 "2317": {
                   "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Encount%20Cards.jpg?raw=true",
-                  "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+                  "BackURL": "https://github.com/Loshin4/PL/blob/main/Etc/Etc/Encounter%20Back.jpg?raw=true",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -13093,8 +13093,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -13154,8 +13154,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2324": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_02.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_01.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_02.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_01.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -13216,8 +13216,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2323": {
-              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_04.jpg?raw=true",
-              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/Loshin_NoZ_03.jpg?raw=true",
+              "FaceURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_04.jpg?raw=true",
+              "BackURL": "https://github.com/Loshin4/PL/blob/main/Campains/NotZ/NoZ_03.jpg?raw=true",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
